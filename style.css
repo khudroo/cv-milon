@@ -1,0 +1,177 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	font-size: 20px;
+	font-family: Calibri;
+	/* color: #fff; */
+	font-weight: 700;
+}
+.pdl-20px {
+    padding-left: 20px;
+}
+section.wrapper {
+    background: #F6F6F6;
+    width: 1170px;
+    margin: auto;
+    padding: 10px 50px;
+    height: 1348px;
+}
+
+section#leftSidebar {
+    width: 300px;
+    overflow: hidden;
+    float: left;
+    background: #000000;
+    color: #fff;
+    padding: 0px 14px;
+}
+section.img_won {
+    width: 200px;
+    margin-left: 45px;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+
+section.img_won img {
+    width: 100%;
+    height: 100%;
+    border: 7px solid #fff;
+}
+
+section.contact_won.pdl-20px {
+    padding-bottom: 40px;
+}
+
+section.contact_won.pdl-20px h2 {
+    padding-bottom: 30px;
+}
+
+.address {
+    padding-bottom: 10px;
+}
+
+.phone {}
+
+.phone {
+    padding-bottom: 10px;
+}
+
+.email {
+    padding-bottom: 10px;
+}
+section.professional_won.pdl-20px h2 {
+    padding-bottom: 30px;
+}
+
+section.professional_won.pdl-20px p {
+    padding-bottom: 10px;
+}
+
+section.refereces_won.pdl-20px h3 {
+	margin-top: 40px;
+    padding-bottom: 30px;
+}
+section#rightSidebar {
+    width: 820px;
+    float: left;
+    overflow: hidden;
+    margin-left: 20px;
+}
+section.name_content.pdl-20px {
+    margin: 60px 0px;
+}
+
+section.name_content h1 {
+    font-size: 70px;
+}
+
+section.name_content h4 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+section.name_content {}
+
+section.profile_content h2 {
+    padding-bottom: 20px;
+}
+
+section.profile_content p {
+    padding-bottom: 30px;
+    text-align: justify;
+    line-height: 35px;
+}
+
+section.academic_content h2 {
+    padding-bottom: 24px;
+}
+
+.academic_single {
+    overflow: hidden;
+    width: 900px;
+
+}
+
+.deatils_info.right_info {
+    float: left;
+    padding-left: 63px;
+    margin-bottom: 32px;
+}
+
+p {}
+
+.year p {
+    float: left;
+    
+}
+
+.pyear {
+    padding-left: 30px;
+    float: left;
+}
+
+
+section.skill_content.pdl-20px {
+    padding-bottom: 36px;
+}
+
+section.skill_content h2 {
+    padding-bottom: 20px;
+}
+h2 {}
+
+section.careear_info h2 {
+    padding-bottom: 20px;
+}
+
+.right_info p {
+    line-height: 28px;
+}
+
+
+footer {
+    width: 1170px;
+    margin: auto;
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 18px;
+    padding: 50px;
+}
+
+
+.last{
+	padding-bottom: 63px;
+}
+
+
+
+
+
+
+
